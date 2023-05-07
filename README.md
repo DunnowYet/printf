@@ -4,7 +4,7 @@ Das Programm kann mithilfe eines Compilers lauffähhig gemacht werden.
 Bsp: 'clang-12 pp6.c -o pp6.elf'
 
 # ansi\_color.c
-Das Programm \_color.c gibt mithilfe von ANSI-Escape-Codes gefärbte ASCII-Art aus.
+Das Programm ansi\_color.c gibt mithilfe von ANSI-Escape-Codes gefärbte ASCII-Art aus.
 Auch diese Programm kann durch Nutzung eines C Compilers lauffähhig gemacht werden. 
 
 
